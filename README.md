@@ -3,7 +3,7 @@
 <head/>
 <body>
 
-<header>shootingstar-arduino</header>
+<h>shootingstar-arduino</h>
 <p>
 This basically plays the famous 00s song Shooting Star lead melody by Bag Raiders on arduino. 
 Aside from an arduino you will need a passive buzzer to play the song, but usually you 
