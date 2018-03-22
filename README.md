@@ -11,7 +11,7 @@ will get one when you buy the arduino itself.
 The buzzer needs to be connected to the 8th pin and also to the ground.
 </p>
 <ul>
-<li>It's uncompleted since the track is not fully imlemented yet. (skips interlude) </li>
+<li>It's uncompleted since the track is not fully implemented yet. (skips interlude) </li>
 <li>The final idea consists in make an arduino full band that plays all of the song's tracks. (Maybe using I2C for synchro)</li>
 <li>Also, the code is really wanky, it needs refactoring. </li>
 </ul>
